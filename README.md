@@ -12,9 +12,10 @@ Exploratory Data Analysis on Netflix movies dataset using Python to uncover genr
 
 ## Folder Structure
 
-data/        → dataset  
-notebooks/  → analysis notebook  
-images/     → visualizations  
+mymoviedb/  → row_dataset  
+cleaned_data/ →cleaned_dataset
+Netflix_Movies_Data_Analysis/  → analysis notebook  
+
 
 ## Key Findings
 - Drama is the most frequent genre.
