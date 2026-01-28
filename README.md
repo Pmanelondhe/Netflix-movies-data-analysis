@@ -13,7 +13,9 @@ Exploratory Data Analysis on Netflix movies dataset using Python to uncover genr
 ## Folder Structure
 
 mymoviedb/  → row_dataset  
+
 cleaned_data/ →cleaned_dataset
+
 Netflix_Movies_Data_Analysis/  → analysis notebook  
 
 
